@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables / secrets
+.env
+
+# React production build
+build/
+
+# General build output
+dist/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
