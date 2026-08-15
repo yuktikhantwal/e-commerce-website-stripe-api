@@ -10,7 +10,6 @@ We’ll use the Express framework on Node.js to develop the server API. After im
 
 The components in the application are styled in a way to provide you with an initial template of the application. You can style and customize them as you want.
 
----
 
 ## Features
 
